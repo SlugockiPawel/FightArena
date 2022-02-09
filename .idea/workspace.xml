@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1a497a4-70af-44ee-af1b-37148cf6a61a" name="Changes" comment="connect views to routers">
+    <list default="true" id="c1a497a4-70af-44ee-af1b-37148cf6a61a" name="Changes" comment="update 00_Plan and create MySql database">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +77,7 @@
       <updated>1644320185899</updated>
       <workItem from="1644320187056" duration="3933000" />
       <workItem from="1644327188483" duration="588000" />
-      <workItem from="1644401459555" duration="4803000" />
+      <workItem from="1644401459555" duration="7264000" />
     </task>
     <task id="LOCAL-00001" summary="configure express">
       <created>1644322705745</created>
@@ -114,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644407070849</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update 00_Plan and create MySql database">
+      <created>1644410627851</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644410627851</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +145,8 @@
     <MESSAGE value="configure main.hbs and error.hbs" />
     <MESSAGE value="add views structure" />
     <MESSAGE value="connect views to routers" />
-    <option name="LAST_COMMIT_MESSAGE" value="connect views to routers" />
+    <MESSAGE value="update 00_Plan and create MySql database" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 00_Plan and create MySql database" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
