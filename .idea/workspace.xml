@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1a497a4-70af-44ee-af1b-37148cf6a61a" name="Changes" comment="add WarriorRecord class">
+    <list default="true" id="c1a497a4-70af-44ee-af1b-37148cf6a61a" name="Changes" comment="add db.ts and implement CRUD operations for warrior.record.ts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +79,8 @@
       <workItem from="1644327188483" duration="588000" />
       <workItem from="1644401459555" duration="7292000" />
       <workItem from="1644485160502" duration="68000" />
-      <workItem from="1644513951860" duration="2631000" />
+      <workItem from="1644513951860" duration="5944000" />
+      <workItem from="1644570784581" duration="4720000" />
     </task>
     <task id="LOCAL-00001" summary="configure express">
       <created>1644322705745</created>
@@ -130,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644415031972</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add db.ts and implement CRUD operations for warrior.record.ts">
+      <created>1644518772157</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1644518772157</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +164,19 @@
     <MESSAGE value="connect views to routers" />
     <MESSAGE value="update 00_Plan and create MySql database" />
     <MESSAGE value="add WarriorRecord class" />
-    <option name="LAST_COMMIT_MESSAGE" value="add WarriorRecord class" />
+    <MESSAGE value="add db.ts and implement CRUD operations for warrior.record.ts" />
+    <option name="LAST_COMMIT_MESSAGE" value="add db.ts and implement CRUD operations for warrior.record.ts" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../TS_project/records/warrior.record.ts</url>
+          <line>48</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
